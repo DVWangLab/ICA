@@ -1,0 +1,7 @@
+step 1: Load sample data (sample data.mat).
+step 2: Run ICA.m
+
+
+% tested on Windows 11
+% tested on MATLAB R2021a 
+% expected run time ~1 min
